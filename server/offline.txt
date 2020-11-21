@@ -1,0 +1,46 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  libavdevice58 libavfilter7 libavresample4 libbs2b0 libcdio-cdda2
+  libcdio-paranoia2 libcdio18 libfftw3-double3 libflite1 libiec61883-0
+  libjack-jackd2-0 liblilv-0-0 libnorm1 libopenal-data libopenal1 libpgm-5.2-0
+  librubberband2 libsdl2-2.0-0 libserd-0-0 libsodium23 libsord-0-0
+  libsratom-0-0 libvidstab1.1 libxss1 libzmq5
+Suggested packages:
+  ffmpeg-doc libfftw3-bin libfftw3-dev jackd2 libportaudio2 serdi sordi
+The following NEW packages will be installed:
+  ffmpeg libavdevice58 libavfilter7 libavresample4 libbs2b0 libcdio-cdda2
+  libcdio-paranoia2 libcdio18 libfftw3-double3 libflite1 libiec61883-0
+  libjack-jackd2-0 liblilv-0-0 libnorm1 libopenal-data libopenal1 libpgm-5.2-0
+  librubberband2 libsdl2-2.0-0 libserd-0-0 libsodium23 libsord-0-0
+  libsratom-0-0 libvidstab1.1 libxss1 libzmq5
+0 upgraded, 26 newly installed, 0 to remove and 14 not upgraded.
+Need to get 19.0 MB of archives.
+After this operation, 43.6 MB of additional disk space will be used.
+'http://deb.debian.org/debian/pool/main/libb/libbs2b/libbs2b0_3.1.0+dfsg-2.2_amd64.deb' libbs2b0_3.1.0+dfsg-2.2_amd64.deb 12216 MD5Sum:efce3e6bf732abe9b039fdef6de5f904
+'http://deb.debian.org/debian/pool/main/f/flite/libflite1_2.1-release-3_amd64.deb' libflite1_2.1-release-3_amd64.deb 12824708 MD5Sum:d5cc92957d285a9d97c89cf925360b40
+'http://deb.debian.org/debian/pool/main/s/serd/libserd-0-0_0.28.0~dfsg0-1_amd64.deb' libserd-0-0_0.28.0~dfsg0-1_amd64.deb 40794 MD5Sum:eba6e1bf6871208d9ba2ac6ee781a26a
+'http://deb.debian.org/debian/pool/main/s/sord/libsord-0-0_0.16.0~dfsg0-1+b1_amd64.deb' libsord-0-0_0.16.0~dfsg0-1+b1_amd64.deb 23044 MD5Sum:2802210cb727891645fcbb382b0dc055
+'http://deb.debian.org/debian/pool/main/s/sratom/libsratom-0-0_0.6.0~dfsg0-1_amd64.deb' libsratom-0-0_0.6.0~dfsg0-1_amd64.deb 16568 MD5Sum:083d4aaaf9c9406b14b074d9d9f84751
+'http://deb.debian.org/debian/pool/main/l/lilv/liblilv-0-0_0.24.2~dfsg0-2_amd64.deb' liblilv-0-0_0.24.2~dfsg0-2_amd64.deb 44168 MD5Sum:32b244204dd98263c67682e42d5cd457
+'http://deb.debian.org/debian/pool/main/f/fftw3/libfftw3-double3_3.3.8-2_amd64.deb' libfftw3-double3_3.3.8-2_amd64.deb 732524 MD5Sum:241e61418ed81ab930e4c4dd6608876f
+'http://deb.debian.org/debian/pool/main/r/rubberband/librubberband2_1.8.1-7_amd64.deb' librubberband2_1.8.1-7_amd64.deb 86008 MD5Sum:565fce6ea2b70f081da4ffa9a851e017
+'http://deb.debian.org/debian/pool/main/libv/libvidstab/libvidstab1.1_1.1.0-2_amd64.deb' libvidstab1.1_1.1.0-2_amd64.deb 37552 MD5Sum:e06748dd5c7e6907a3e03ed8a5c9e01e
+'http://deb.debian.org/debian/pool/main/n/norm/libnorm1_1.5.8+dfsg2-1_amd64.deb' libnorm1_1.5.8+dfsg2-1_amd64.deb 286828 MD5Sum:56daeb2784d695220ca41a7604087834
+'http://deb.debian.org/debian/pool/main/libp/libpgm/libpgm-5.2-0_5.2.122~dfsg-3_amd64.deb' libpgm-5.2-0_5.2.122~dfsg-3_amd64.deb 157740 MD5Sum:2aea4a5a6b5ea88fef024c803e94fd97
+'http://deb.debian.org/debian/pool/main/libs/libsodium/libsodium23_1.0.17-1_amd64.deb' libsodium23_1.0.17-1_amd64.deb 158304 MD5Sum:87fa95a1a630f4c16f1eb937563506ec
+'http://deb.debian.org/debian/pool/main/z/zeromq3/libzmq5_4.3.1-4+deb10u2_amd64.deb' libzmq5_4.3.1-4+deb10u2_amd64.deb 246004 MD5Sum:756a49e11f274e37fcab0daa1f1695fc
+'http://deb.debian.org/debian/pool/main/f/ffmpeg/libavfilter7_4.1.6-1~deb10u1_amd64.deb' libavfilter7_7%3a4.1.6-1~deb10u1_amd64.deb 1046260 MD5Sum:2acc8234d323a69a285e1355e846e776
+'http://deb.debian.org/debian/pool/main/libc/libcdio/libcdio18_2.0.0-2_amd64.deb' libcdio18_2.0.0-2_amd64.deb 199256 MD5Sum:2474381cc012125655b1a637a06d10ed
+'http://deb.debian.org/debian/pool/main/libc/libcdio-paranoia/libcdio-cdda2_10.2+0.94+2-4_amd64.deb' libcdio-cdda2_10.2+0.94+2-4_amd64.deb 26356 MD5Sum:d11616bf2336d85be8e47b97f9cb8066
+'http://deb.debian.org/debian/pool/main/libc/libcdio-paranoia/libcdio-paranoia2_10.2+0.94+2-4_amd64.deb' libcdio-paranoia2_10.2+0.94+2-4_amd64.deb 27756 MD5Sum:112f3dfe464c089de6a52a7c49d112d7
+'http://deb.debian.org/debian/pool/main/libi/libiec61883/libiec61883-0_1.2.0-3_amd64.deb' libiec61883-0_1.2.0-3_amd64.deb 31228 MD5Sum:b3f1d7566369b8d458307c6ab80f15b7
+'http://deb.debian.org/debian/pool/main/j/jackd2/libjack-jackd2-0_1.9.12~dfsg-2_amd64.deb' libjack-jackd2-0_1.9.12~dfsg-2_amd64.deb 299204 MD5Sum:ffd2346aee356b718540dc6ffc7801d0
+'http://deb.debian.org/debian/pool/main/o/openal-soft/libopenal-data_1.19.1-1_all.deb' libopenal-data_1%3a1.19.1-1_all.deb 170008 MD5Sum:7aac9f00d9c699d54c247d4a2799590d
+'http://deb.debian.org/debian/pool/main/o/openal-soft/libopenal1_1.19.1-1_amd64.deb' libopenal1_1%3a1.19.1-1_amd64.deb 500368 MD5Sum:8e437598917cc8f90ab92a87a67f2fb5
+'http://deb.debian.org/debian/pool/main/libx/libxss/libxss1_1.2.3-1_amd64.deb' libxss1_1%3a1.2.3-1_amd64.deb 17812 MD5Sum:c0849b188dcdcc3996dc642fb1e71e7a
+'http://deb.debian.org/debian/pool/main/libs/libsdl2/libsdl2-2.0-0_2.0.9+dfsg1-1_amd64.deb' libsdl2-2.0-0_2.0.9+dfsg1-1_amd64.deb 400740 MD5Sum:863a742eb5b09a59dba2be9dee224607
+'http://deb.debian.org/debian/pool/main/f/ffmpeg/libavdevice58_4.1.6-1~deb10u1_amd64.deb' libavdevice58_7%3a4.1.6-1~deb10u1_amd64.deb 123508 MD5Sum:61c03c3bfba5db05e9eb8b05fb8dccbd
+'http://deb.debian.org/debian/pool/main/f/ffmpeg/libavresample4_4.1.6-1~deb10u1_amd64.deb' libavresample4_7%3a4.1.6-1~deb10u1_amd64.deb 101808 MD5Sum:9a6528c68a107e5a72a585febc24c756
+'http://deb.debian.org/debian/pool/main/f/ffmpeg/ffmpeg_4.1.6-1~deb10u1_amd64.deb' ffmpeg_7%3a4.1.6-1~deb10u1_amd64.deb 1434044 MD5Sum:24953b1f9b81cc893dae09fad830533e

@@ -1,0 +1,15 @@
+{
+  "name": "skeleton",
+  "version": "1.0.0",
+  "author": "Joshua Sanderson",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "WebsiteConponents",
+    "Dashboard",
+    "server"
+  ],
+  "dependencies": {
+    "express-http-proxy": "^1.6.2"
+  }
+}
